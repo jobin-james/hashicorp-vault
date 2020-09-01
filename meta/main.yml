@@ -1,4 +1,5 @@
 galaxy_info:
+  role_name: hashicorp-vault
   author: Jobin James
   description: Devops Engineer
   company: DevOpsByte
